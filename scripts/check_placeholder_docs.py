@@ -12,7 +12,7 @@ REQUIRED_TEXT = (
     "does not currently contain a Godot addon",
     "public API, installable package, or release",
     "There is no supported integration or version for consumers to adopt.",
-    "fieldsofrevik/issues/141",
+    "separate product contract",
 )
 ADDON_OR_PACKAGE_PATHS = (
     ROOT / "addon",

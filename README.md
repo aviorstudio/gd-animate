@@ -1,3 +1,5 @@
+<!-- Generated from private documentation source. Do not edit directly. Source SHA256: 05acf5e8d623caaaed50de3d217c30e97e0c92b2534729805d467e2f3fda25d4 -->
+
 # gd-animate
 
 ## Status: retained placeholder
@@ -13,6 +15,3 @@ infer implementation or release readiness from the repository's existence.
 The only automation in this repository checks that this placeholder status
 remains explicit and that addon or packaging files are not introduced without
 replacing that status deliberately.
-
-Decision: D-01 in the studio engineering plan, approved for
-[fieldsofrevik#141](https://github.com/aviorstudio/fieldsofrevik/issues/141).
